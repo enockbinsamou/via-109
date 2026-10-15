@@ -1,0 +1,322 @@
+[
+  {
+    "id": "INF-000",
+    "category": "informacion",
+    "image": "/signals/informacion/0.jpg",
+    "title_es": "Vía en sentido único",
+    "meaning_es": "Indica que la vía tiene un solo sentido de circulación.",
+    "description_es": "Todos los vehículos deben circular en la misma dirección, la que indica la flecha. No está permitido circular en sentido contrario. Por ejemplo, en una calle de sentido único, todos los carriles van en la misma dirección."
+  },
+  {
+    "id": "INF-001",
+    "category": "informacion",
+    "image": "/signals/informacion/1.jpg",
+    "title_es": "Sentido de circulación",
+    "meaning_es": "Indica la dirección permitida de circulación.",
+    "description_es": "Esta señal informa al conductor sobre la dirección en la que deben moverse los vehículos. Se coloca generalmente en intersecciones o calles con un solo sentido de tránsito para evitar confusiones."
+  },
+  {
+    "id": "INF-002",
+    "category": "informacion",
+    "image": "/signals/informacion/2.jpg",
+    "title_es": "Estacionamiento de vehículos",
+    "meaning_es": "Indica zona autorizada para estacionar.",
+    "description_es": "Señala un área donde está permitido dejar el vehículo estacionado. El conductor debe respetar las condiciones indicadas, como horarios o duración máxima. Fuera de estas zonas señalizadas, el estacionamiento puede estar prohibido."
+  },
+  {
+    "id": "INF-003",
+    "category": "informacion",
+    "image": "/signals/informacion/3.jpg",
+    "title_es": "Hospital",
+    "meaning_es": "Indica la proximidad de un hospital.",
+    "description_es": "Informa que hay un hospital cerca de la vía. El conductor debe reducir la velocidad, evitar el uso de la bocina y circular con especial cuidado, ya que pueden haber peatones, ambulancias o vehículos de emergencia entrando y saliendo."
+  },
+  {
+    "id": "INF-004",
+    "category": "informacion",
+    "image": "/signals/informacion/4.jpg",
+    "title_es": "Autopista",
+    "meaning_es": "Indica el inicio de una autopista.",
+    "description_es": "A partir de este punto comienzan las normas específicas de autopista: velocidad mínima obligatoria, prohibición de peatones, ciclistas y vehículos lentos. El conductor debe incorporarse a la velocidad adecuada y utilizar los carriles correctamente."
+  },
+  {
+    "id": "INF-005",
+    "category": "informacion",
+    "image": "/signals/informacion/5.jpg",
+    "title_es": "Fin de circulación de autopista",
+    "meaning_es": "Indica el final del tramo de autopista.",
+    "description_es": "A partir de este punto dejan de aplicarse las condiciones especiales de autopista. El conductor debe adaptar su conducción a las normas de una vía convencional, reduciendo la velocidad y prestando atención a posibles cruces e intersecciones."
+  },
+  {
+    "id": "INF-006",
+    "category": "informacion",
+    "image": "/signals/informacion/6.jpg",
+    "title_es": "Carretera para automóviles",
+    "meaning_es": "Indica vía reservada para automóviles.",
+    "description_es": "Esta vía está destinada exclusivamente a vehículos de motor. No pueden circular peatones, ciclistas, vehículos de tracción animal ni otros vehículos no motorizados. Las condiciones de circulación son similares a las de una autopista."
+  },
+  {
+    "id": "INF-007",
+    "category": "informacion",
+    "image": "/signals/informacion/7.jpg",
+    "title_es": "Fin de carretera para automóvil",
+    "meaning_es": "Indica el final de la vía exclusiva para automóviles.",
+    "description_es": "A partir de este punto la vía deja de ser exclusiva para vehículos de motor. Pueden aparecer peatones, ciclistas y otros usuarios. El conductor debe adaptar su velocidad y extremar la precaución."
+  },
+  {
+    "id": "INF-008",
+    "category": "informacion",
+    "image": "/signals/informacion/8.jpg",
+    "title_es": "Parada de ómnibus",
+    "meaning_es": "Indica lugar destinado a parada de transporte público.",
+    "description_es": "Señala la zona reservada para que los ómnibus recojan y dejen pasajeros. Los demás vehículos no deben estacionar en esta zona. El conductor debe prestar atención a los peatones que puedan cruzar la vía al subir o bajar del transporte."
+  },
+  {
+    "id": "INF-009",
+    "category": "informacion",
+    "image": "/signals/informacion/9.jpg",
+    "title_es": "Vía sin salida",
+    "meaning_es": "Indica que la vía no tiene salida.",
+    "description_es": "Informa que la calle o camino termina sin conexión a otra vía. El conductor que entre deberá retornar por el mismo camino. Es útil para evitar entrar innecesariamente en una vía de la que no se puede salir por el otro extremo."
+  },
+  {
+    "id": "INF-010",
+    "category": "informacion",
+    "image": "/signals/informacion/10.png",
+    "title_es": "Vía sin salida lateral",
+    "meaning_es": "Indica que una vía lateral no tiene salida.",
+    "description_es": "Advierte que una calle que se cruza lateralmente no tiene continuación. El conductor que tome esa vía lateral deberá regresar por el mismo punto. La vía principal sigue abierta normalmente."
+  },
+  {
+    "id": "INF-011",
+    "category": "informacion",
+    "image": "/signals/informacion/11.jpg",
+    "title_es": "Policlínica",
+    "meaning_es": "Indica la proximidad de un centro médico.",
+    "description_es": "Informa que hay un centro de atención médica cercano. El conductor debe circular con precaución en la zona, ya que pueden haber pacientes, peatones y vehículos de emergencia. Es conveniente reducir la velocidad y evitar ruidos innecesarios."
+  },
+  {
+    "id": "INF-012",
+    "category": "informacion",
+    "image": "/signals/informacion/12.png",
+    "title_es": "Puesto telefónico",
+    "meaning_es": "Indica la existencia de un teléfono público.",
+    "description_es": "Señala la presencia de un teléfono público disponible para comunicaciones. Es especialmente útil en carreteras o zonas rurales donde no hay cobertura móvil y se necesita realizar una llamada de emergencia o de asistencia."
+  },
+  {
+    "id": "INF-013",
+    "category": "informacion",
+    "image": "/signals/informacion/13.jpg",
+    "title_es": "Taller de reparaciones",
+    "meaning_es": "Indica la proximidad de un taller mecánico.",
+    "description_es": "Informa que hay un taller de reparación de vehículos cerca. Si el conductor experimenta una avería mecánica, puede dirigirse a este punto para obtener asistencia técnica."
+  },
+  {
+    "id": "INF-014",
+    "category": "informacion",
+    "image": "/signals/informacion/14.png",
+    "title_es": "Estación de servicio",
+    "meaning_es": "Indica la existencia de una estación de combustible.",
+    "description_es": "Señala la presencia de un punto de abastecimiento de combustible cercano. El conductor que necesite repostar puede dirigirse a esta estación. En carreteras largas, es recomendable no dejar pasar estas oportunidades."
+  },
+  {
+    "id": "INF-015",
+    "category": "informacion",
+    "image": "/signals/informacion/15.png",
+    "title_es": "Estación de servicio y taller",
+    "meaning_es": "Indica servicios combinados.",
+    "description_es": "Informa que en un mismo punto se puede obtener combustible y servicio de reparación de vehículos. Es especialmente útil en carreteras donde estos servicios son escasos."
+  },
+  {
+    "id": "INF-016",
+    "category": "informacion",
+    "image": "/signals/informacion/16.png",
+    "title_es": "Lugar pintoresco",
+    "meaning_es": "Indica un sitio de interés turístico.",
+    "description_es": "Señala la proximidad de un lugar con valor paisajístico o turístico. El conductor puede detenerse para disfrutar del entorno si hay un área habilitada para estacionar. No justifica paradas en lugares peligrosos."
+  },
+  {
+    "id": "INF-017",
+    "category": "informacion",
+    "image": "/signals/informacion/17.png",
+    "title_es": "Parque nacional o zoológico",
+    "meaning_es": "Indica un parque nacional o zoológico cercano.",
+    "description_es": "Informa la proximidad de un parque nacional o zoológico. El conductor debe estar atento a posibles cruces de peatones y animales en la zona. Se recomienda circular a velocidad moderada."
+  },
+  {
+    "id": "INF-018",
+    "category": "informacion",
+    "image": "/signals/informacion/18.png",
+    "title_es": "Monumento nacional",
+    "meaning_es": "Indica la proximidad de un monumento.",
+    "description_es": "Señala la presencia de un monumento de interés histórico o cultural cerca de la vía. Es una referencia orientativa para el conductor y puede indicar una zona con mayor presencia de visitantes y peatones."
+  },
+  {
+    "id": "INF-019",
+    "category": "informacion",
+    "image": "/signals/informacion/19.png",
+    "title_es": "Restaurante",
+    "meaning_es": "Indica la existencia de un restaurante.",
+    "description_es": "Informa que hay un restaurante disponible cerca de la vía. Es útil en trayectos largos para planificar paradas de alimentación. El conductor debe buscar un lugar seguro para estacionar antes de detenerse."
+  },
+  {
+    "id": "INF-020",
+    "category": "informacion",
+    "image": "/signals/informacion/20.png",
+    "title_es": "Cafetería",
+    "meaning_es": "Indica la existencia de una cafetería.",
+    "description_es": "Señala la presencia de una cafetería próxima donde se puede tomar un descanso. En viajes largos, hacer pausas para tomar café o alimentos ligeros ayuda a combatir la fatiga al volante."
+  },
+  {
+    "id": "INF-021",
+    "category": "informacion",
+    "image": "/signals/informacion/21.png",
+    "title_es": "Motel u hotel",
+    "meaning_es": "Indica alojamiento disponible.",
+    "description_es": "Informa que hay un establecimiento de alojamiento cercano. Si el conductor siente fatiga o necesita descansar, es preferible detenerse en un lugar habilitado a continuar conduciendo con sueño."
+  },
+  {
+    "id": "INF-022",
+    "category": "informacion",
+    "image": "/signals/informacion/22.png",
+    "title_es": "Lugar acondicionado como punto de partida de excursiones a pie",
+    "meaning_es": "Indica inicio de rutas peatonales.",
+    "description_es": "Señala un punto preparado para iniciar caminatas o excursiones a pie. El conductor puede estacionar en la zona habilitada y continuar a pie. Se recomienda no dejar el vehículo fuera de las áreas de estacionamiento."
+  },
+  {
+    "id": "INF-023",
+    "category": "informacion",
+    "image": "/signals/informacion/23.png",
+    "title_es": "Lugar acondicionado para excursiones",
+    "meaning_es": "Indica zona preparada para actividades recreativas.",
+    "description_es": "Informa sobre un área destinada a actividades al aire libre y recreación. Puede incluir senderos, áreas de picnic u otros servicios. El conductor puede detenerse si hay estacionamiento disponible."
+  },
+  {
+    "id": "INF-024",
+    "category": "informacion",
+    "image": "/signals/informacion/24.png",
+    "title_es": "Terreno para campismo",
+    "meaning_es": "Indica zona habilitada para acampar.",
+    "description_es": "Señala la proximidad de un terreno preparado para campamento con tiendas de campaña. El conductor puede dirigirse a esta zona si busca alojamiento al aire libre. Es importante respetar las normas del camping."
+  },
+  {
+    "id": "INF-025",
+    "category": "informacion",
+    "image": "/signals/informacion/25.png",
+    "title_es": "Terreno para remolques de campismo",
+    "meaning_es": "Indica área para caravanas.",
+    "description_es": "Informa que hay un espacio habilitado para estacionar remolques de campismo o casas rodantes. Estas áreas suelen contar con servicios básicos como agua y electricidad para los viajeros."
+  },
+  {
+    "id": "INF-026",
+    "category": "informacion",
+    "image": "/signals/informacion/26.png",
+    "title_es": "Tiendas de campaña y remolques de campismo",
+    "meaning_es": "Indica zona mixta de campamento.",
+    "description_es": "Señala un área donde se permite tanto el uso de tiendas de campaña como de remolques o caravanas. Es un espacio de campismo compartido donde conviven ambas modalidades de alojamiento al aire libre."
+  },
+  {
+    "id": "INF-027",
+    "category": "informacion",
+    "image": "/signals/informacion/27.png",
+    "title_es": "Albergue de juventud",
+    "meaning_es": "Indica alojamiento juvenil.",
+    "description_es": "Informa la presencia de un albergue que ofrece hospedaje económico, generalmente orientado a jóvenes viajeros. Es una opción accesible para descansar durante trayectos largos."
+  },
+  {
+    "id": "INF-028",
+    "category": "informacion",
+    "image": "/signals/informacion/28.png",
+    "title_es": "Paso de Peatones (cebra)",
+    "meaning_es": "Indica paso de peatones.",
+    "description_es": "Señala la ubicación de un cruce peatonal tipo cebra, con franjas blancas pintadas en la calzada. El conductor debe ceder el paso a los peatones que estén cruzando o se dispongan a cruzar."
+  },
+  {
+    "id": "INF-029",
+    "category": "informacion",
+    "image": "/signals/informacion/29.png",
+    "title_es": "Paso de Peatones (líneas paralelas)",
+    "meaning_es": "Indica cruce peatonal señalizado.",
+    "description_es": "Indica un paso de peatones delimitado por líneas paralelas en la calzada. Tiene la misma función que el paso de cebra: el conductor debe reducir la velocidad y ceder el paso a los peatones."
+  },
+  {
+    "id": "INF-030",
+    "category": "informacion",
+    "image": "/signals/informacion/30.png",
+    "title_es": "Paso de Peatones a desnivel Bajada",
+    "meaning_es": "Indica paso peatonal a desnivel descendente.",
+    "description_es": "Señala la existencia de un paso subterráneo para peatones, accesible mediante escaleras o rampa descendente. Los peatones deben utilizar este paso para cruzar la vía de forma segura sin interrumpir el tráfico."
+  },
+  {
+    "id": "INF-031",
+    "category": "informacion",
+    "image": "/signals/informacion/31.jpg",
+    "title_es": "Paso de Peatones a desnivel Subida",
+    "meaning_es": "Indica paso peatonal a desnivel ascendente.",
+    "description_es": "Indica la presencia de un puente peatonal o paso elevado accesible mediante escaleras o rampa ascendente. Los peatones deben usarlo para cruzar la vía con seguridad, evitando cruzar a nivel de la calzada."
+  },
+  {
+    "id": "INF-032",
+    "category": "informacion",
+    "image": "/signals/informacion/32.png",
+    "title_es": "Paso de Impedidos físicos motores",
+    "meaning_es": "Indica acceso adaptado.",
+    "description_es": "Señala un cruce o acceso especialmente adaptado para personas con movilidad reducida, como rampas o superficies lisas. El conductor debe extremar la precaución en esta zona y ceder el paso siempre."
+  },
+  {
+    "id": "INF-033",
+    "category": "informacion",
+    "image": "/signals/informacion/33.png",
+    "title_es": "Paso de Ciegos o débiles visuales",
+    "meaning_es": "Indica paso adaptado para personas con discapacidad visual.",
+    "description_es": "Señala una zona de cruce equipada con elementos táctiles o sonoros para facilitar el paso de personas con discapacidad visual. El conductor debe reducir la velocidad y ceder el paso, ya que estas personas pueden no ver el tráfico."
+  },
+  {
+    "id": "INF-034",
+    "category": "informacion",
+    "image": "/signals/informacion/34.png",
+    "title_es": "Área de descanso",
+    "meaning_es": "Indica zona habilitada para descanso.",
+    "description_es": "Informa la proximidad de un espacio destinado al descanso de los conductores, con estacionamiento y posiblemente servicios básicos. En viajes largos, es recomendable hacer pausas periódicas para evitar la fatiga."
+  },
+  {
+    "id": "INF-035",
+    "category": "informacion",
+    "image": "/signals/informacion/35.png",
+    "title_es": "Auxilio en carretera",
+    "meaning_es": "Indica servicio de asistencia vial.",
+    "description_es": "Señala la presencia de un punto donde se ofrece ayuda mecánica y asistencia en caso de avería. El conductor que tenga problemas con su vehículo puede dirigirse a este punto para recibir auxilio."
+  },
+  {
+    "id": "INF-036",
+    "category": "informacion",
+    "image": "/signals/informacion/36.png",
+    "title_es": "Teléfono de emergencia",
+    "meaning_es": "Indica punto de comunicación de emergencia.",
+    "description_es": "Señala la ubicación de un teléfono destinado exclusivamente a llamadas de emergencia. En caso de accidente o situación grave, el conductor puede usar este dispositivo para solicitar ayuda inmediata."
+  },
+  {
+    "id": "INF-037",
+    "category": "informacion",
+    "image": "/signals/informacion/37.jpg",
+    "title_es": "Fin de vía sin salida",
+    "meaning_es": "Indica el final de una vía sin salida.",
+    "description_es": "Informa que se ha llegado al punto donde termina la vía sin continuación. El conductor debe prepararse para dar la vuelta y retornar por el mismo camino por el que llegó."
+  },
+  {
+    "id": "INF-038",
+    "category": "informacion",
+    "image": "/signals/informacion/38.jpg",
+    "title_es": "Fin de autopista",
+    "meaning_es": "Indica el final de autopista.",
+    "description_es": "A partir de este punto la vía deja de tener las características de autopista. El conductor debe reducir la velocidad y adaptarse a las condiciones de una carretera convencional, con posibles cruces, semáforos y peatones."
+  },
+  {
+    "id": "INF-039",
+    "category": "informacion",
+    "image": "/signals/informacion/39.jpg",
+    "title_es": "Fin de carretera para automóviles",
+    "meaning_es": "Indica el fin de vía reservada para automóviles.",
+    "description_es": "A partir de este punto la vía deja de ser exclusiva para automóviles. Pueden aparecer peatones, ciclistas y otros tipos de vehículos. El conductor debe reducir la velocidad y estar especialmente atento."
+  }
+]

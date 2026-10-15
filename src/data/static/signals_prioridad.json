@@ -1,0 +1,74 @@
+[
+  {
+    "id": "PRI-000",
+    "category": "prioridad",
+    "image": "/signals/prioridad/0.png",
+    "title_es": "Pare",
+    "meaning_es": "Indica la obligación de detener completamente el vehículo.",
+    "description_es": "El conductor debe detener el vehículo por completo antes de la línea de detención, aunque no se aproximen otros vehículos. Debe observar en ambos sentidos y solo avanzar cuando la vía esté completamente libre."
+  },
+  {
+    "id": "PRI-001",
+    "category": "prioridad",
+    "image": "/signals/prioridad/1.png",
+    "title_es": "Ceda el Paso",
+    "meaning_es": "Indica que se debe ceder el paso a los vehículos que circulan por la vía preferente.",
+    "description_es": "El conductor debe reducir la velocidad y permitir el paso a los vehículos que circulan por la vía con prioridad. Si la vía está libre, puede continuar sin detenerse. No es obligatorio parar, solo ceder si hay tráfico."
+  },
+  {
+    "id": "PRI-002",
+    "category": "prioridad",
+    "image": "/signals/prioridad/2.png",
+    "title_es": "Prioridad al vehículo en sentido contrario",
+    "meaning_es": "Indica que se debe ceder el paso a los vehículos que circulan en sentido contrario.",
+    "description_es": "En tramos estrechos donde no caben dos vehículos a la vez, el conductor debe detenerse y dejar pasar al vehículo que viene de frente. Solo puede avanzar cuando el paso esté completamente libre."
+  },
+  {
+    "id": "PRI-003",
+    "category": "prioridad",
+    "image": "/signals/prioridad/3.png",
+    "title_es": "Prioridad de circulación",
+    "meaning_es": "Indica que el conductor tiene prioridad frente a los vehículos que circulan en sentido contrario.",
+    "description_es": "El conductor puede avanzar con prioridad en tramos estrechos, ya que los vehículos que vienen en sentido contrario deben esperar. Aun así, debe circular con precaución y verificar que la vía esté libre."
+  },
+  {
+    "id": "PRI-004",
+    "category": "prioridad",
+    "image": "/signals/prioridad/4.png",
+    "title_es": "Vía con prioridad",
+    "meaning_es": "Indica que la vía por la que se circula tiene prioridad en las intersecciones.",
+    "description_es": "Los vehículos que se incorporan desde otras vías deben ceder el paso. Sin embargo, el conductor con prioridad debe mantener la precaución, especialmente en intersecciones donde otros conductores puedan no respetar la señal."
+  },
+  {
+    "id": "PRI-005",
+    "category": "prioridad",
+    "image": "/signals/prioridad/5.png",
+    "title_es": "Fin de vía con prioridad",
+    "meaning_es": "Indica el final del tramo donde la vía tenía prioridad.",
+    "description_es": "A partir de este punto la vía deja de tener preferencia en las intersecciones. El conductor debe prestar atención a la nueva señalización y respetar las normas de prioridad que correspondan en cada cruce."
+  },
+  {
+    "id": "PRI-006",
+    "category": "prioridad",
+    "image": "/signals/prioridad/6.jpg",
+    "title_es": "Dirección obligatoria con luz roja",
+    "meaning_es": "Indica que el giro en esa dirección está permitido únicamente con la luz roja del semáforo.",
+    "description_es": "Permite al conductor girar en la dirección indicada incluso cuando el semáforo está en rojo, siempre que no represente un riesgo para peatones ni otros vehículos. Debe ceder el paso antes de completar la maniobra."
+  },
+  {
+    "id": "PRI-007",
+    "category": "prioridad",
+    "image": "/signals/prioridad/7.jpg",
+    "title_es": "Recto con luz roja",
+    "meaning_es": "Indica que se permite continuar recto con la luz roja del semáforo.",
+    "description_es": "Autoriza al conductor a avanzar en línea recta aunque el semáforo esté en rojo, siempre que la vía esté libre y no exista peligro. El conductor debe verificar la ausencia de tráfico y peatones antes de continuar."
+  },
+  {
+    "id": "PRI-008",
+    "category": "prioridad",
+    "image": "/signals/prioridad/8.jpg",
+    "title_es": "Izquierda con luz verde",
+    "meaning_es": "Indica prioridad para girar a la izquierda cuando el semáforo lo permita.",
+    "description_es": "Señala que el conductor tiene prioridad para girar a la izquierda cuando la flecha verde del semáforo está encendida. Debe respetar a los peatones que estén cruzando y completar el giro sin detenerse en medio de la intersección."
+  }
+]

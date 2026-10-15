@@ -1,0 +1,42 @@
+[
+  {
+    "id": "FIN-028",
+    "category": "fin",
+    "image": "/signals/fin/28.png",
+    "title_es": "Fin de prohibición del límite máximo de velocidad",
+    "meaning_es": "Indica el final de la limitación máxima de velocidad.",
+    "description_es": "A partir de este punto deja de aplicarse el límite de velocidad máxima que estaba vigente. El conductor debe respetar los límites generales según el tipo de vía. No significa que pueda circular a cualquier velocidad."
+  },
+  {
+    "id": "FIN-029",
+    "category": "fin",
+    "image": "/signals/fin/29.png",
+    "title_es": "Fin de prohibición de adelantamiento a vehículos de motor",
+    "meaning_es": "Indica el final de la prohibición de adelantamiento.",
+    "description_es": "Se permite nuevamente adelantar a otros vehículos, siempre que las condiciones de visibilidad y seguridad lo permitan. El conductor debe verificar que hay espacio suficiente y señalizar la maniobra antes de adelantar."
+  },
+  {
+    "id": "FIN-030",
+    "category": "fin",
+    "image": "/signals/fin/30.png",
+    "title_es": "Fin de prohibición de adelantamiento a vehículos mayores de 3500 kg",
+    "meaning_es": "Indica el final de la restricción para vehículos pesados.",
+    "description_es": "Los vehículos de más de 3500 kg pueden volver a adelantar si la vía y la visibilidad lo permiten. Esta señal aplica únicamente a los vehículos pesados; los demás ya podían adelantar normalmente."
+  },
+  {
+    "id": "FIN-031",
+    "category": "fin",
+    "image": "/signals/fin/31.png",
+    "title_es": "Fin de velocidad mínima obligatoria",
+    "meaning_es": "Indica el final de la obligación de velocidad mínima.",
+    "description_es": "A partir de este punto ya no es obligatorio mantener una velocidad mínima. Los vehículos lentos pueden volver a circular por la vía. El conductor debe adaptar su velocidad a las condiciones del tránsito."
+  },
+  {
+    "id": "FIN-032",
+    "category": "fin",
+    "image": "/signals/fin/32.png",
+    "title_es": "Fin de todas las prohibiciones de carácter local",
+    "meaning_es": "Indica el final de las restricciones locales anteriores.",
+    "description_es": "Anula todas las prohibiciones específicas que estaban vigentes en el tramo anterior, como límites de velocidad, prohibición de adelantar o de estacionar. A partir de aquí se aplican únicamente las normas generales de circulación."
+  }
+]

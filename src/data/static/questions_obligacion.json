@@ -1,0 +1,288 @@
+[
+  {
+    "id": 8001,
+    "signalId": "OBL-000",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Sentido obligatorio recto",
+      "Sentido obligatorio izquierda",
+      "Paso obligatorio",
+      "Sentido giratorio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Indica que el conductor debe continuar recto."
+  },
+  {
+    "id": 8002,
+    "signalId": "OBL-001",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Sentido obligatorio derecha",
+      "Sentido obligatorio izquierda",
+      "Paso obligatorio izquierda",
+      "Sentido obligatorio combinado"
+    ],
+    "correctIndex": 1,
+    "explanation": "Indica que el conductor debe girar a la izquierda."
+  },
+  {
+    "id": 8003,
+    "signalId": "OBL-002",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Paso obligatorio derecha",
+      "Sentido obligatorio izquierda",
+      "Sentido obligatorio derecha",
+      "Sentido obligatorio recto"
+    ],
+    "correctIndex": 2,
+    "explanation": "Indica que el conductor debe girar a la derecha."
+  },
+  {
+    "id": 8004,
+    "signalId": "OBL-003",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Sentido obligatorio recto",
+      "Dirección obligatoria múltiple",
+      "Sentido obligatorio combinado",
+      "Sentido giratorio"
+    ],
+    "correctIndex": 2,
+    "explanation": "Indica que se permite continuar en las direcciones señaladas."
+  },
+  {
+    "id": 8005,
+    "signalId": "OBL-004",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Sentido obligatorio combinado",
+      "Paso obligatorio",
+      "Sentido giratorio",
+      "Dirección obligatoria múltiple"
+    ],
+    "correctIndex": 2,
+    "explanation": "Indica la obligación de circular en rotonda."
+  },
+  {
+    "id": 8006,
+    "signalId": "OBL-005",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Paso obligatorio derecha",
+      "Paso obligatorio",
+      "Sentido obligatorio recto",
+      "Paso obligatorio izquierda"
+    ],
+    "correctIndex": 1,
+    "explanation": "Indica la obligación de pasar por el lado señalado."
+  },
+  {
+    "id": 8007,
+    "signalId": "OBL-006",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Vía obligatoria para ciclistas",
+      "Vía obligatoria para peatones",
+      "Paso obligatorio",
+      "Vía obligatoria para jinetes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Indica que la vía está destinada exclusivamente a peatones."
+  },
+  {
+    "id": 8008,
+    "signalId": "OBL-007",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Fin de obligación",
+      "Sentido obligatorio recto",
+      "Velocidad mínima obligatoria",
+      "Paso obligatorio"
+    ],
+    "correctIndex": 2,
+    "explanation": "Indica la velocidad mínima permitida."
+  },
+  {
+    "id": 8009,
+    "signalId": "OBL-008",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Vía obligatoria para automóviles",
+      "Vía obligatoria para camiones",
+      "Vía obligatoria para ómnibus",
+      "Vía obligatoria para motocicletas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Indica que la vía está destinada a camiones."
+  },
+  {
+    "id": 8010,
+    "signalId": "OBL-009",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Vía obligatoria para camiones",
+      "Vía obligatoria para motocicletas",
+      "Vía obligatoria para automóviles",
+      "Vía obligatoria para ómnibus"
+    ],
+    "correctIndex": 2,
+    "explanation": "Indica que la vía está destinada a automóviles."
+  },
+  {
+    "id": 8011,
+    "signalId": "OBL-010",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Vía obligatoria para ciclistas",
+      "Vía obligatoria para motocicletas",
+      "Vía obligatoria para automóviles",
+      "Vía obligatoria para camiones"
+    ],
+    "correctIndex": 1,
+    "explanation": "Indica que la vía está destinada a motocicletas."
+  },
+  {
+    "id": 8012,
+    "signalId": "OBL-011",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Vía obligatoria para jinetes",
+      "Vía obligatoria para vehículos de tracción animal",
+      "Vía obligatoria para ciclistas",
+      "Vía obligatoria para peatones"
+    ],
+    "correctIndex": 1,
+    "explanation": "Indica que la vía está destinada a vehículos de tracción animal."
+  },
+  {
+    "id": 8013,
+    "signalId": "OBL-012",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Vía obligatoria para motocicletas",
+      "Vía obligatoria para peatones",
+      "Vía obligatoria para ciclistas",
+      "Vía obligatoria para jinetes"
+    ],
+    "correctIndex": 2,
+    "explanation": "Indica que la vía está destinada a bicicletas."
+  },
+  {
+    "id": 8014,
+    "signalId": "OBL-013",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Vía obligatoria para ciclistas",
+      "Vía obligatoria para vehículos de tracción animal",
+      "Vía obligatoria para peatones",
+      "Vía obligatoria para jinetes"
+    ],
+    "correctIndex": 3,
+    "explanation": "Indica que la vía está destinada a jinetes."
+  },
+  {
+    "id": 8015,
+    "signalId": "OBL-014",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Vía obligatoria para camiones",
+      "Vía obligatoria para ómnibus",
+      "Vía obligatoria para automóviles",
+      "Vía obligatoria para motocicletas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Indica que la vía está destinada a ómnibus."
+  },
+  {
+    "id": 8016,
+    "signalId": "OBL-015",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Sentido obligatorio derecha",
+      "Paso obligatorio izquierda",
+      "Paso obligatorio derecha",
+      "Paso obligatorio"
+    ],
+    "correctIndex": 2,
+    "explanation": "Indica que se debe pasar por la derecha."
+  },
+  {
+    "id": 8017,
+    "signalId": "OBL-016",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Paso obligatorio derecha",
+      "Sentido obligatorio izquierda",
+      "Paso obligatorio",
+      "Paso obligatorio izquierda"
+    ],
+    "correctIndex": 3,
+    "explanation": "Indica que se debe pasar por la izquierda."
+  },
+  {
+    "id": 8018,
+    "signalId": "OBL-017",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Velocidad mínima obligatoria",
+      "Sentido obligatorio recto",
+      "Fin de obligación",
+      "Dirección obligatoria múltiple"
+    ],
+    "correctIndex": 2,
+    "explanation": "Indica el final de la obligación señalada."
+  },
+  {
+    "id": 8019,
+    "signalId": "OBL-018",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Sentido obligatorio combinado",
+      "Sentido giratorio",
+      "Dirección obligatoria múltiple",
+      "Paso obligatorio"
+    ],
+    "correctIndex": 2,
+    "explanation": "Indica varias direcciones obligatorias posibles."
+  },
+  {
+    "id": 8020,
+    "signalId": "OBL-004",
+    "question": "Al llegar a una rotonda señalizada con esta señal, ¿qué debe hacer el conductor?",
+    "choices": [
+      "Detenerse completamente antes de entrar",
+      "Ceder el paso a los vehículos dentro de la rotonda e incorporarse por la derecha",
+      "Acelerar para entrar antes que los demás",
+      "Circular en cualquier sentido dentro de la rotonda"
+    ],
+    "correctIndex": 1,
+    "explanation": "El conductor debe ceder el paso a los vehículos que ya circulan dentro de la rotonda, incorporarse por la derecha y salir en la dirección deseada."
+  },
+  {
+    "id": 8021,
+    "signalId": "OBL-007",
+    "question": "Si un vehículo no puede alcanzar la velocidad indicada en esta señal, ¿qué debe hacer?",
+    "choices": [
+      "Circular por el carril derecho",
+      "Encender las luces de emergencia",
+      "No utilizar esta vía",
+      "Detenerse hasta que la vía esté libre"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los vehículos que no puedan alcanzar la velocidad mínima indicada no deben utilizar esa vía."
+  },
+  {
+    "id": 8022,
+    "signalId": "OBL-000",
+    "question": "Con esta señal, ¿puede el conductor girar a la derecha?",
+    "choices": [
+      "Sí, si no hay vehículos",
+      "Sí, señalizando la maniobra",
+      "No, solo puede continuar recto",
+      "Sí, en intersecciones con semáforo"
+    ],
+    "correctIndex": 2,
+    "explanation": "La señal de sentido obligatorio recto prohíbe girar a la derecha ni a la izquierda."
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "ORI-000",
+    "category": "orientacion",
+    "image": "/signals/orientacion/0.jpg",
+    "title_es": "Señal de destino",
+    "meaning_es": "Indica la dirección hacia determinados destinos.",
+    "description_es": "Informa al conductor sobre la dirección que debe tomar para llegar a ciudades, pueblos o lugares específicos. La flecha señala el camino a seguir. Si hay varias direcciones, cada destino aparece con su distancia aproximada."
+  },
+  {
+    "id": "ORI-001",
+    "category": "orientacion",
+    "image": "/signals/orientacion/1.png",
+    "title_es": "Señal de población",
+    "meaning_es": "Indica el nombre de la población.",
+    "description_es": "Se coloca al inicio de una localidad para informar al conductor que está entrando en una zona urbana. A partir de este punto, se deben respetar los límites de velocidad urbanos y prestar mayor atención a peatones y ciclistas."
+  },
+  {
+    "id": "ORI-002",
+    "category": "orientacion",
+    "image": "/signals/orientacion/2.jpg",
+    "title_es": "Señal de fin de población",
+    "meaning_es": "Indica el fin de la población.",
+    "description_es": "Marca la salida de una localidad. A partir de este punto comienzan las normas de circulación en carretera, incluidos los límites de velocidad fuera de zona urbana. El conductor puede adaptar su velocidad según las condiciones de la vía."
+  },
+  {
+    "id": "ORI-003",
+    "category": "orientacion",
+    "image": "/signals/orientacion/3.jpg",
+    "title_es": "Señales de pre señalización",
+    "meaning_es": "Indican anticipadamente direcciones o maniobras.",
+    "description_es": "Se colocan antes de una intersección para que el conductor pueda preparar con antelación la maniobra necesaria. Permiten elegir el carril correcto y anticipar el giro o la dirección deseada sin sorpresas de último momento."
+  },
+  {
+    "id": "ORI-004",
+    "category": "orientacion",
+    "image": "/signals/orientacion/4.jpg",
+    "title_es": "Señales de pre señalización",
+    "meaning_es": "Orientan sobre movimientos en intersecciones complejas.",
+    "description_es": "Muestran gráficamente la configuración de una intersección compleja, indicando los carriles y las direcciones posibles. El conductor debe leerlas con antelación para ubicarse en el carril correcto antes de llegar al cruce."
+  },
+  {
+    "id": "ORI-005",
+    "category": "orientacion",
+    "image": "/signals/orientacion/5.jpg",
+    "title_es": "Señales de pre señalización",
+    "meaning_es": "Advierten sobre desvíos o rutas próximas.",
+    "description_es": "Informan con anticipación sobre desvíos, salidas o bifurcaciones próximas. El conductor debe preparar la maniobra con tiempo, señalizar su intención y cambiar de carril de forma segura antes de llegar al punto de desvío."
+  },
+  {
+    "id": "ORI-006",
+    "category": "orientacion",
+    "image": "/signals/orientacion/6.jpg",
+    "title_es": "Señal de carril de senda especial",
+    "meaning_es": "Indica un carril reservado para un tipo específico de vehículo.",
+    "description_es": "Señala que un carril está destinado exclusivamente a un tipo de vehículo, como ómnibus o taxis. Los demás vehículos no pueden circular por ese carril. Por ejemplo, un carril exclusivo para transporte público."
+  },
+  {
+    "id": "ORI-007",
+    "category": "orientacion",
+    "image": "/signals/orientacion/7.jpg",
+    "title_es": "Señales de ruta",
+    "meaning_es": "Indican numeración o identificación de la vía.",
+    "description_es": "Muestran el número o código de la carretera por la que se circula. Permiten al conductor ubicarse dentro del sistema vial y confirmar que está en la ruta correcta hacia su destino."
+  },
+  {
+    "id": "ORI-008",
+    "category": "orientacion",
+    "image": "/signals/orientacion/8.jpg",
+    "title_es": "Señal de ruta para autopista",
+    "meaning_es": "Indica numeración específica de autopista.",
+    "description_es": "Identifica la autopista con su número o código propio. Es útil para confirmar que el conductor circula por la autopista correcta, especialmente en zonas donde varias autopistas se cruzan o se unen."
+  },
+  {
+    "id": "ORI-009",
+    "category": "orientacion",
+    "image": "/signals/orientacion/9.jpg",
+    "title_es": "Señales de hito kilómetro",
+    "meaning_es": "Indican el kilómetro de la vía.",
+    "description_es": "Muestran la distancia en kilómetros desde el punto de origen de la carretera. Son útiles para conocer la ubicación exacta en caso de emergencia o para calcular la distancia restante hasta el destino."
+  },
+  {
+    "id": "ORI-010",
+    "category": "orientacion",
+    "image": "/signals/orientacion/10.jpg",
+    "title_es": "Distancia entre la señal y el comienzo de la restricción",
+    "meaning_es": "Indica la distancia hasta el inicio de la restricción.",
+    "description_es": "Esta placa complementaria se coloca debajo de otra señal para informar a qué distancia comienza la restricción indicada. Por ejemplo, '200 m' significa que la prohibición comienza 200 metros más adelante."
+  },
+  {
+    "id": "ORI-011",
+    "category": "orientacion",
+    "image": "/signals/orientacion/11.jpg",
+    "title_es": "Placa que indica la distancia que existe entre ella y la señal de pare",
+    "meaning_es": "Indica distancia hasta la señal de pare.",
+    "description_es": "Informa al conductor cuántos metros faltan para llegar a una señal de PARE. Esto le permite anticiparse, reducir la velocidad progresivamente y prepararse para detenerse completamente."
+  },
+  {
+    "id": "ORI-012",
+    "category": "orientacion",
+    "image": "/signals/orientacion/12.jpg",
+    "title_es": "Placa que indica el sentido de dirección de la vía a la cual está dirigida la regulación",
+    "meaning_es": "Indica dirección específica de aplicación.",
+    "description_es": "Aclara en qué dirección se aplica la regulación de la señal principal. Por ejemplo, una flecha apuntando a la izquierda indica que la prohibición o restricción aplica solo para la vía que va hacia la izquierda."
+  },
+  {
+    "id": "ORI-013",
+    "category": "orientacion",
+    "image": "/signals/orientacion/13.jpg",
+    "title_es": "Placas que indican el tipo de vehículo a que se refiere la señal",
+    "meaning_es": "Especifica el vehículo al que aplica la señal.",
+    "description_es": "Esta placa complementaria muestra el tipo de vehículo al que se refiere la señal principal. Si aparece un camión, por ejemplo, significa que la restricción solo aplica a camiones y no a los demás vehículos."
+  },
+  {
+    "id": "ORI-014",
+    "category": "orientacion",
+    "image": "/signals/orientacion/14.jpg",
+    "title_es": "Placas que indican el tipo de vehículo a que se refiere la señal",
+    "meaning_es": "Precisa el tipo de vehículo regulado.",
+    "description_es": "Funciona como placa complementaria que especifica a qué categoría de vehículo se dirige la señal. Solo los vehículos representados en la placa están afectados por la restricción o indicación."
+  },
+  {
+    "id": "ORI-015",
+    "category": "orientacion",
+    "image": "/signals/orientacion/15.png",
+    "title_es": "Placa que indica la senda o carril a que se refiere la señal",
+    "meaning_es": "Indica carril específico.",
+    "description_es": "Precisa que la señal principal se aplica únicamente al carril señalado por la flecha. Los conductores de los demás carriles no están afectados por esa restricción u obligación."
+  },
+  {
+    "id": "ORI-016",
+    "category": "orientacion",
+    "image": "/signals/orientacion/16.png",
+    "title_es": "Forma en que deben estacionarse los vehículos",
+    "meaning_es": "Indica modo de estacionamiento.",
+    "description_es": "Muestra gráficamente la posición en que deben colocarse los vehículos al estacionar. Puede indicar estacionamiento en paralelo, en ángulo o perpendicular a la acera. El conductor debe respetar la forma indicada."
+  },
+  {
+    "id": "ORI-017",
+    "category": "orientacion",
+    "image": "/signals/orientacion/17.png",
+    "title_es": "Forma en que deben estacionarse los vehículos",
+    "meaning_es": "Indica modalidad específica de estacionamiento.",
+    "description_es": "Complementa la señal de estacionamiento mostrando la disposición exacta del vehículo. El conductor debe colocar su vehículo según el ángulo o la orientación representada para facilitar el orden y la circulación."
+  },
+  {
+    "id": "ORI-018",
+    "category": "orientacion",
+    "image": "/signals/orientacion/18.jpg",
+    "title_es": "Forma en que deben estacionarse los vehículos",
+    "meaning_es": "Precisa forma obligatoria de estacionar.",
+    "description_es": "Indica la posición exacta en que debe quedar el vehículo al estacionar. No respetar la forma indicada puede obstaculizar la circulación de otros vehículos o generar una infracción."
+  },
+  {
+    "id": "ORI-019",
+    "category": "orientacion",
+    "image": "/signals/orientacion/19.jpg",
+    "title_es": "Velocidad máxima aconsejable",
+    "meaning_es": "Indica velocidad recomendada.",
+    "description_es": "Sugiere una velocidad máxima adecuada para las condiciones del tramo, como curvas o zonas con poca visibilidad. No es obligatoria, pero seguir esta recomendación mejora la seguridad. Circular a velocidad superior puede ser peligroso."
+  },
+  {
+    "id": "ORI-020",
+    "category": "orientacion",
+    "image": "/signals/orientacion/20.jpg",
+    "title_es": "Giro en U permitido",
+    "meaning_es": "Indica que está permitido girar en U.",
+    "description_es": "Autoriza la maniobra de cambio de sentido de marcha (giro en U) en ese punto. El conductor puede invertir la dirección de circulación, siempre que lo haga con seguridad y sin obstaculizar a otros vehículos."
+  },
+  {
+    "id": "ORI-021",
+    "category": "orientacion",
+    "image": "/signals/orientacion/21.jpg",
+    "title_es": "Vía para vehículos lentos",
+    "meaning_es": "Indica carril para vehículos de baja velocidad.",
+    "description_es": "Señala un carril reservado para vehículos que circulan a velocidad reducida, como camiones cargados o vehículos agrícolas en pendientes. Los vehículos lentos deben usar este carril para no entorpecer la circulación."
+  },
+  {
+    "id": "ORI-022",
+    "category": "orientacion",
+    "image": "/signals/orientacion/22.jpg",
+    "title_es": "Peligro de incendio",
+    "meaning_es": "Advierte sobre riesgo de incendio.",
+    "description_es": "Informa que la zona es propensa a incendios forestales o que existe riesgo de fuego. El conductor no debe arrojar colillas, fósforos ni objetos encendidos por la ventanilla. Cualquier descuido puede provocar un incendio grave."
+  },
+  {
+    "id": "ORI-023",
+    "category": "orientacion",
+    "image": "/signals/orientacion/23.jpg",
+    "title_es": "Peligro ante las condiciones por las lluvias",
+    "meaning_es": "Advierte riesgo por lluvia.",
+    "description_es": "Señala que el tramo es propenso a inundaciones, deslizamientos o acumulación de agua en la calzada durante períodos de lluvia. El conductor debe reducir la velocidad y circular con especial precaución cuando haya lluvia o señales de agua en la vía."
+  },
+  {
+    "id": "ORI-024",
+    "category": "orientacion",
+    "image": "/signals/orientacion/24.jpg",
+    "title_es": "Lugar frecuentado por impedidos físicos motores",
+    "meaning_es": "Indica presencia frecuente de personas con movilidad reducida.",
+    "description_es": "Advierte que en la zona es habitual la presencia de personas con movilidad reducida, como sillas de ruedas. El conductor debe circular a velocidad muy reducida, estar atento y ceder siempre el paso."
+  },
+  {
+    "id": "ORI-025",
+    "category": "orientacion",
+    "image": "/signals/orientacion/25.jpg",
+    "title_es": "Esquema de la intersección que se aproxima y la vía que posee preferencia",
+    "meaning_es": "Muestra intersección próxima.",
+    "description_es": "Presenta un esquema gráfico de la intersección que se acerca, indicando claramente cuál vía tiene prioridad de paso. El conductor debe identificar su posición en el esquema y actuar según la prioridad indicada."
+  },
+  {
+    "id": "ORI-026",
+    "category": "orientacion",
+    "image": "/signals/orientacion/26.jpg",
+    "title_es": "Pre señalización rotonda",
+    "meaning_es": "Advierte proximidad de rotonda.",
+    "description_es": "Informa que más adelante hay una intersección giratoria (rotonda). El conductor debe prepararse para reducir la velocidad, ceder el paso a los vehículos que ya circulan dentro de la rotonda e incorporarse por la derecha."
+  },
+  {
+    "id": "ORI-027",
+    "category": "orientacion",
+    "image": "/signals/orientacion/27.jpg",
+    "title_es": "Señal elevada",
+    "meaning_es": "Indica señal colocada en estructura elevada.",
+    "description_es": "Es una señal de orientación montada en una estructura sobre la vía, como un pórtico o puente. Se utiliza en autopistas o vías anchas para que sea visible desde todos los carriles. La información es la misma que una señal lateral."
+  },
+  {
+    "id": "ORI-028",
+    "category": "orientacion",
+    "image": "/signals/orientacion/28.jpg",
+    "title_es": "Señal de desvío",
+    "meaning_es": "Indica cambio temporal de dirección.",
+    "description_es": "Señala un desvío provisional, generalmente por obras o cortes de vía. El conductor debe seguir la dirección indicada por las flechas hasta retomar la ruta habitual. Es importante respetar las señales temporales de obra."
+  },
+  {
+    "id": "ORI-029",
+    "category": "orientacion",
+    "image": "/signals/orientacion/29.png",
+    "title_es": "Placas que indican el sentido de dirección de la vía a la cual está dirigida la regulación",
+    "meaning_es": "Indica dirección específica de aplicación.",
+    "description_es": "Placa complementaria que aclara en qué sentido de la vía se aplica la señal principal. Si la flecha apunta a la derecha, la regulación solo afecta a la vía que va hacia la derecha."
+  }
+]

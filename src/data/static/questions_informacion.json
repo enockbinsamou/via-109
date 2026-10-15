@@ -1,0 +1,522 @@
+[
+  {
+    "id": 6001,
+    "signalId": "INF-000",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Vía en sentido único",
+      "Vía sin salida",
+      "Sentido de circulación",
+      "Carretera para automóviles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Indica que la vía tiene un solo sentido de circulación."
+  },
+  {
+    "id": 6002,
+    "signalId": "INF-001",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Vía en sentido único",
+      "Sentido de circulación",
+      "Fin de autopista",
+      "Paso de peatones"
+    ],
+    "correctIndex": 1,
+    "explanation": "Indica la dirección permitida de circulación."
+  },
+  {
+    "id": 6003,
+    "signalId": "INF-002",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Parada de ómnibus",
+      "Área de descanso",
+      "Estacionamiento de vehículos",
+      "Vía sin salida"
+    ],
+    "correctIndex": 2,
+    "explanation": "Indica zona autorizada para estacionar."
+  },
+  {
+    "id": 6004,
+    "signalId": "INF-003",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Policlínica",
+      "Hospital",
+      "Auxilio en carretera",
+      "Teléfono de emergencia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Indica la proximidad de un hospital."
+  },
+  {
+    "id": 6005,
+    "signalId": "INF-004",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Carretera para automóviles",
+      "Fin de autopista",
+      "Autopista",
+      "Vía en sentido único"
+    ],
+    "correctIndex": 2,
+    "explanation": "Indica el inicio de una autopista."
+  },
+  {
+    "id": 6006,
+    "signalId": "INF-005",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Fin de circulación de autopista",
+      "Autopista",
+      "Fin de carretera para automóviles",
+      "Carretera para automóviles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Indica el final del tramo de autopista."
+  },
+  {
+    "id": 6007,
+    "signalId": "INF-006",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Autopista",
+      "Vía en sentido único",
+      "Carretera para automóviles",
+      "Fin de carretera para automóviles"
+    ],
+    "correctIndex": 2,
+    "explanation": "Indica vía reservada para automóviles."
+  },
+  {
+    "id": 6008,
+    "signalId": "INF-007",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Fin de carretera para automóvil",
+      "Fin de autopista",
+      "Carretera para automóviles",
+      "Fin de vía sin salida"
+    ],
+    "correctIndex": 0,
+    "explanation": "Indica el final de la vía exclusiva para automóviles."
+  },
+  {
+    "id": 6009,
+    "signalId": "INF-008",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Estacionamiento de vehículos",
+      "Paso de peatones",
+      "Área de descanso",
+      "Parada de ómnibus"
+    ],
+    "correctIndex": 3,
+    "explanation": "Indica lugar destinado a parada de transporte público."
+  },
+  {
+    "id": 6010,
+    "signalId": "INF-009",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Vía sin salida",
+      "Vía sin salida lateral",
+      "Fin de vía sin salida",
+      "Vía en sentido único"
+    ],
+    "correctIndex": 0,
+    "explanation": "Indica que la vía no tiene salida."
+  },
+  {
+    "id": 6011,
+    "signalId": "INF-010",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Vía sin salida",
+      "Vía sin salida lateral",
+      "Fin de vía sin salida",
+      "Sentido de circulación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Indica que una vía lateral no tiene salida."
+  },
+  {
+    "id": 6012,
+    "signalId": "INF-011",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Hospital",
+      "Policlínica",
+      "Auxilio en carretera",
+      "Restaurante"
+    ],
+    "correctIndex": 1,
+    "explanation": "Indica la proximidad de un centro médico."
+  },
+  {
+    "id": 6013,
+    "signalId": "INF-012",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Teléfono de emergencia",
+      "Estación de servicio",
+      "Puesto telefónico",
+      "Auxilio en carretera"
+    ],
+    "correctIndex": 2,
+    "explanation": "Indica la existencia de un teléfono público."
+  },
+  {
+    "id": 6014,
+    "signalId": "INF-013",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Estación de servicio",
+      "Taller de reparaciones",
+      "Auxilio en carretera",
+      "Estación de servicio y taller"
+    ],
+    "correctIndex": 1,
+    "explanation": "Indica la proximidad de un taller mecánico."
+  },
+  {
+    "id": 6015,
+    "signalId": "INF-014",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Taller de reparaciones",
+      "Estación de servicio y taller",
+      "Estación de servicio",
+      "Auxilio en carretera"
+    ],
+    "correctIndex": 2,
+    "explanation": "Indica la existencia de una estación de combustible."
+  },
+  {
+    "id": 6016,
+    "signalId": "INF-015",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Estación de servicio",
+      "Taller de reparaciones",
+      "Estación de servicio y taller",
+      "Auxilio en carretera"
+    ],
+    "correctIndex": 2,
+    "explanation": "Incluye abastecimiento y reparación de vehículos."
+  },
+  {
+    "id": 6017,
+    "signalId": "INF-016",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Parque nacional o zoológico",
+      "Lugar pintoresco",
+      "Monumento nacional",
+      "Terreno para campismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Indica un sitio de interés turístico."
+  },
+  {
+    "id": 6018,
+    "signalId": "INF-017",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Lugar pintoresco",
+      "Monumento nacional",
+      "Parque nacional o zoológico",
+      "Lugar acondicionado para excursiones"
+    ],
+    "correctIndex": 2,
+    "explanation": "Indica un parque nacional o zoológico cercano."
+  },
+  {
+    "id": 6019,
+    "signalId": "INF-018",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Lugar pintoresco",
+      "Monumento nacional",
+      "Parque nacional o zoológico",
+      "Albergue de juventud"
+    ],
+    "correctIndex": 1,
+    "explanation": "Indica la proximidad de un monumento."
+  },
+  {
+    "id": 6020,
+    "signalId": "INF-019",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Cafetería",
+      "Motel u hotel",
+      "Restaurante",
+      "Área de descanso"
+    ],
+    "correctIndex": 2,
+    "explanation": "Servicio de alimentación disponible."
+  },
+  {
+    "id": 6021,
+    "signalId": "INF-020",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Restaurante",
+      "Cafetería",
+      "Motel u hotel",
+      "Área de descanso"
+    ],
+    "correctIndex": 1,
+    "explanation": "Servicio de bebidas y alimentos ligeros."
+  },
+  {
+    "id": 6022,
+    "signalId": "INF-021",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Albergue de juventud",
+      "Restaurante",
+      "Motel u hotel",
+      "Cafetería"
+    ],
+    "correctIndex": 2,
+    "explanation": "Indica alojamiento disponible."
+  },
+  {
+    "id": 6023,
+    "signalId": "INF-022",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Lugar acondicionado para excursiones",
+      "Lugar acondicionado como punto de partida de excursiones a pie",
+      "Terreno para campismo",
+      "Parque nacional o zoológico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Indica inicio de rutas peatonales."
+  },
+  {
+    "id": 6024,
+    "signalId": "INF-023",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Lugar acondicionado como punto de partida de excursiones a pie",
+      "Terreno para campismo",
+      "Lugar acondicionado para excursiones",
+      "Lugar pintoresco"
+    ],
+    "correctIndex": 2,
+    "explanation": "Indica zona preparada para actividades recreativas."
+  },
+  {
+    "id": 6025,
+    "signalId": "INF-024",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Terreno para remolques de campismo",
+      "Terreno para campismo",
+      "Tiendas de campaña y remolques de campismo",
+      "Lugar acondicionado para excursiones"
+    ],
+    "correctIndex": 1,
+    "explanation": "Indica zona habilitada para acampar."
+  },
+  {
+    "id": 6026,
+    "signalId": "INF-025",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Terreno para campismo",
+      "Tiendas de campaña y remolques de campismo",
+      "Terreno para remolques de campismo",
+      "Lugar acondicionado para excursiones"
+    ],
+    "correctIndex": 2,
+    "explanation": "Indica área para caravanas."
+  },
+  {
+    "id": 6027,
+    "signalId": "INF-026",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Terreno para campismo",
+      "Terreno para remolques de campismo",
+      "Tiendas de campaña y remolques de campismo",
+      "Albergue de juventud"
+    ],
+    "correctIndex": 2,
+    "explanation": "Área destinada a tiendas y caravanas."
+  },
+  {
+    "id": 6028,
+    "signalId": "INF-027",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Motel u hotel",
+      "Albergue de juventud",
+      "Terreno para campismo",
+      "Cafetería"
+    ],
+    "correctIndex": 1,
+    "explanation": "Instalación destinada a hospedaje económico."
+  },
+  {
+    "id": 6029,
+    "signalId": "INF-028",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Paso de Peatones (líneas paralelas)",
+      "Paso de Impedidos físicos motores",
+      "Paso de Peatones (cebra)",
+      "Paso de Ciegos o débiles visuales"
+    ],
+    "correctIndex": 2,
+    "explanation": "Zona señalizada para cruce peatonal."
+  },
+  {
+    "id": 6030,
+    "signalId": "INF-029",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Paso de Peatones (cebra)",
+      "Paso de Peatones (líneas paralelas)",
+      "Paso de Peatones a desnivel Bajada",
+      "Paso de Ciegos o débiles visuales"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cruce delimitado por líneas paralelas."
+  },
+  {
+    "id": 6031,
+    "signalId": "INF-030",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Paso de Peatones a desnivel Subida",
+      "Paso de Peatones (cebra)",
+      "Paso de Peatones a desnivel Bajada",
+      "Paso de Impedidos físicos motores"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cruce peatonal mediante bajada."
+  },
+  {
+    "id": 6032,
+    "signalId": "INF-031",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Paso de Peatones a desnivel Bajada",
+      "Paso de Peatones a desnivel Subida",
+      "Paso de Peatones (líneas paralelas)",
+      "Paso de Ciegos o débiles visuales"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cruce peatonal mediante subida."
+  },
+  {
+    "id": 6033,
+    "signalId": "INF-032",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Paso de Ciegos o débiles visuales",
+      "Paso de Peatones (cebra)",
+      "Paso de Impedidos físicos motores",
+      "Paso de Peatones a desnivel Bajada"
+    ],
+    "correctIndex": 2,
+    "explanation": "Paso habilitado para personas con movilidad reducida."
+  },
+  {
+    "id": 6034,
+    "signalId": "INF-033",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Paso de Impedidos físicos motores",
+      "Paso de Peatones (líneas paralelas)",
+      "Paso de Ciegos o débiles visuales",
+      "Paso de Peatones a desnivel Subida"
+    ],
+    "correctIndex": 2,
+    "explanation": "Zona señalizada para facilitar el cruce seguro."
+  },
+  {
+    "id": 6035,
+    "signalId": "INF-034",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Estacionamiento de vehículos",
+      "Parada de ómnibus",
+      "Auxilio en carretera",
+      "Área de descanso"
+    ],
+    "correctIndex": 3,
+    "explanation": "Espacio destinado a pausa y estacionamiento temporal."
+  },
+  {
+    "id": 6036,
+    "signalId": "INF-035",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Teléfono de emergencia",
+      "Auxilio en carretera",
+      "Taller de reparaciones",
+      "Estación de servicio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Zona donde se presta ayuda mecánica."
+  },
+  {
+    "id": 6037,
+    "signalId": "INF-036",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Puesto telefónico",
+      "Auxilio en carretera",
+      "Teléfono de emergencia",
+      "Policlínica"
+    ],
+    "correctIndex": 2,
+    "explanation": "Servicio disponible para solicitar ayuda urgente."
+  },
+  {
+    "id": 6038,
+    "signalId": "INF-037",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Vía sin salida",
+      "Fin de autopista",
+      "Fin de vía sin salida",
+      "Vía sin salida lateral"
+    ],
+    "correctIndex": 2,
+    "explanation": "Termina la condición de vía sin salida."
+  },
+  {
+    "id": 6039,
+    "signalId": "INF-038",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Autopista",
+      "Fin de carretera para automóviles",
+      "Fin de circulación de autopista",
+      "Fin de autopista"
+    ],
+    "correctIndex": 3,
+    "explanation": "Termina la condición de autopista."
+  },
+  {
+    "id": 6040,
+    "signalId": "INF-039",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Carretera para automóviles",
+      "Fin de autopista",
+      "Fin de carretera para automóviles",
+      "Fin de vía sin salida"
+    ],
+    "correctIndex": 2,
+    "explanation": "Termina la condición exclusiva para automóviles."
+  }
+]

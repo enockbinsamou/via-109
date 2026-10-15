@@ -1,0 +1,236 @@
+[
+  {
+    "id": 11001,
+    "signalId": "ORI-000",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Señal de población",
+      "Señal de destino",
+      "Señal de desvío",
+      "Señales de ruta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Indica la dirección hacia determinados destinos."
+  },
+  {
+    "id": 11002,
+    "signalId": "ORI-001",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Señal de fin de población",
+      "Señal de destino",
+      "Señal de población",
+      "Pre señalización rotonda"
+    ],
+    "correctIndex": 2,
+    "explanation": "Indica el nombre de la población al entrar en una localidad."
+  },
+  {
+    "id": 11003,
+    "signalId": "ORI-002",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Señal de población",
+      "Señal de destino",
+      "Señal de fin de población",
+      "Señal de desvío"
+    ],
+    "correctIndex": 2,
+    "explanation": "Indica el fin de la población, marcando la salida de una localidad."
+  },
+  {
+    "id": 11004,
+    "signalId": "ORI-006",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Señales de ruta",
+      "Vía para vehículos lentos",
+      "Señal de carril de senda especial",
+      "Señal de destino"
+    ],
+    "correctIndex": 2,
+    "explanation": "Indica un carril reservado para un tipo específico de vehículo."
+  },
+  {
+    "id": 11005,
+    "signalId": "ORI-007",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Señal de ruta para autopista",
+      "Señales de ruta",
+      "Señal de destino",
+      "Señales de hito kilómetro"
+    ],
+    "correctIndex": 1,
+    "explanation": "Indican la numeración o identificación de la vía."
+  },
+  {
+    "id": 11006,
+    "signalId": "ORI-008",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Señales de ruta",
+      "Señal de destino",
+      "Señal de ruta para autopista",
+      "Señales de hito kilómetro"
+    ],
+    "correctIndex": 2,
+    "explanation": "Indica la numeración específica de una autopista."
+  },
+  {
+    "id": 11007,
+    "signalId": "ORI-009",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Señales de ruta",
+      "Distancia al inicio de la restricción",
+      "Señales de hito kilómetro",
+      "Señal de destino"
+    ],
+    "correctIndex": 2,
+    "explanation": "Indican el kilómetro de la vía para conocer la ubicación exacta."
+  },
+  {
+    "id": 11008,
+    "signalId": "ORI-019",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Velocidad mínima obligatoria",
+      "Velocidad máxima aconsejable",
+      "Fin de limitación de velocidad",
+      "Velocidad máxima permitida"
+    ],
+    "correctIndex": 1,
+    "explanation": "Indica una velocidad recomendada, no obligatoria."
+  },
+  {
+    "id": 11009,
+    "signalId": "ORI-020",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Prohibido girar en U",
+      "Sentido giratorio",
+      "Giro en U permitido",
+      "Sentido obligatorio combinado"
+    ],
+    "correctIndex": 2,
+    "explanation": "Indica que está permitido girar en U en ese punto."
+  },
+  {
+    "id": 11010,
+    "signalId": "ORI-021",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Señal de carril de senda especial",
+      "Velocidad máxima aconsejable",
+      "Vía para vehículos lentos",
+      "Señal de desvío"
+    ],
+    "correctIndex": 2,
+    "explanation": "Indica un carril reservado para vehículos de baja velocidad."
+  },
+  {
+    "id": 11011,
+    "signalId": "ORI-022",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Peligro ante las condiciones por las lluvias",
+      "Peligro de incendio",
+      "Señal de desvío",
+      "Lugar frecuentado por impedidos físicos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Advierte sobre riesgo de incendio en la zona."
+  },
+  {
+    "id": 11012,
+    "signalId": "ORI-023",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Peligro de incendio",
+      "Pavimento resbaladizo",
+      "Peligro ante las condiciones por las lluvias",
+      "Bajada peligrosa"
+    ],
+    "correctIndex": 2,
+    "explanation": "Advierte riesgo por lluvia, como inundaciones o deslizamientos."
+  },
+  {
+    "id": 11013,
+    "signalId": "ORI-024",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Paso de peatones",
+      "Zona escolar",
+      "Lugar frecuentado por impedidos físicos motores",
+      "Hospital próximo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Indica presencia frecuente de personas con movilidad reducida."
+  },
+  {
+    "id": 11014,
+    "signalId": "ORI-026",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Sentido giratorio",
+      "Pre señalización rotonda",
+      "Señal de desvío",
+      "Señal de destino"
+    ],
+    "correctIndex": 1,
+    "explanation": "Advierte la proximidad de una rotonda."
+  },
+  {
+    "id": 11015,
+    "signalId": "ORI-028",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Señal de destino",
+      "Pre señalización rotonda",
+      "Señal de población",
+      "Señal de desvío"
+    ],
+    "correctIndex": 3,
+    "explanation": "Indica un cambio temporal de dirección, generalmente por obras."
+  },
+  {
+    "id": 11016,
+    "signalId": "ORI-019",
+    "question": "¿Es obligatorio respetar la velocidad indicada en esta señal?",
+    "choices": [
+      "Sí, siempre",
+      "Sí, solo en zona urbana",
+      "No, es una recomendación orientativa",
+      "Sí, excepto para vehículos de emergencia"
+    ],
+    "correctIndex": 2,
+    "explanation": "La velocidad máxima aconsejable no es obligatoria, es una recomendación preventiva para la seguridad."
+  },
+  {
+    "id": 11017,
+    "signalId": "ORI-001",
+    "question": "¿Qué debe hacer el conductor al ver esta señal?",
+    "choices": [
+      "Acelerar para salir de la población",
+      "Respetar los límites de velocidad urbanos y prestar atención a peatones",
+      "Detenerse y esperar indicaciones",
+      "Buscar una ruta alternativa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Al entrar en una localidad, se deben respetar los límites de velocidad urbanos y prestar mayor atención a peatones y ciclistas."
+  },
+  {
+    "id": 11018,
+    "signalId": "ORI-009",
+    "question": "¿Para qué son útiles los hitos kilométricos?",
+    "choices": [
+      "Para indicar límites de velocidad",
+      "Para señalar zonas de peligro",
+      "Para conocer la ubicación exacta en la carretera",
+      "Para indicar la dirección de los destinos"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los hitos kilométricos permiten conocer la ubicación exacta en la carretera, útil en caso de emergencia."
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": 9001,
+    "signalId": "FIN-028",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Fin de velocidad mínima obligatoria",
+      "Fin de prohibición del límite máximo de velocidad",
+      "Fin de todas las prohibiciones de carácter local",
+      "Fin de prohibición de adelantamiento"
+    ],
+    "correctIndex": 1,
+    "explanation": "Indica el final de la limitación máxima de velocidad."
+  },
+  {
+    "id": 9002,
+    "signalId": "FIN-029",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Fin de prohibición de adelantamiento a vehículos de motor",
+      "Fin de prohibición del límite máximo de velocidad",
+      "Fin de todas las prohibiciones de carácter local",
+      "Fin de velocidad mínima obligatoria"
+    ],
+    "correctIndex": 0,
+    "explanation": "Indica el final de la prohibición de adelantamiento."
+  },
+  {
+    "id": 9003,
+    "signalId": "FIN-030",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Fin de prohibición de adelantamiento a vehículos de motor",
+      "Fin de velocidad mínima obligatoria",
+      "Fin de prohibición de adelantamiento a vehículos mayores de 3500 kg",
+      "Fin de todas las prohibiciones de carácter local"
+    ],
+    "correctIndex": 2,
+    "explanation": "Indica el final de la restricción de adelantamiento para vehículos pesados."
+  },
+  {
+    "id": 9004,
+    "signalId": "FIN-031",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Fin de prohibición del límite máximo de velocidad",
+      "Fin de todas las prohibiciones de carácter local",
+      "Fin de prohibición de adelantamiento a vehículos de motor",
+      "Fin de velocidad mínima obligatoria"
+    ],
+    "correctIndex": 3,
+    "explanation": "Indica el final de la obligación de velocidad mínima."
+  },
+  {
+    "id": 9005,
+    "signalId": "FIN-032",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Fin de velocidad mínima obligatoria",
+      "Fin de prohibición del límite máximo de velocidad",
+      "Fin de todas las prohibiciones de carácter local",
+      "Fin de prohibición de adelantamiento a vehículos de motor"
+    ],
+    "correctIndex": 2,
+    "explanation": "Indica el final de las restricciones locales anteriores."
+  },
+  {
+    "id": 9006,
+    "signalId": "FIN-028",
+    "question": "Después de esta señal, ¿puede el conductor circular a cualquier velocidad?",
+    "choices": [
+      "Sí, ya no hay límite",
+      "No, debe respetar los límites generales según el tipo de vía",
+      "Sí, hasta encontrar otra señal",
+      "Solo si la vía está libre"
+    ],
+    "correctIndex": 1,
+    "explanation": "El fin del límite de velocidad específico no elimina los límites generales que corresponden al tipo de vía."
+  },
+  {
+    "id": 9007,
+    "signalId": "FIN-032",
+    "question": "¿Qué ocurre a partir de esta señal?",
+    "choices": [
+      "Se aplican nuevas prohibiciones locales",
+      "Solo se anulan las prohibiciones de velocidad",
+      "Se anulan todas las prohibiciones específicas del tramo anterior",
+      "Se prohíbe el adelantamiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Anula todas las prohibiciones específicas que estaban vigentes en el tramo anterior."
+  },
+  {
+    "id": 9008,
+    "signalId": "FIN-029",
+    "question": "Después de esta señal, ¿se puede adelantar libremente?",
+    "choices": [
+      "Sí, sin ninguna condición",
+      "Sí, siempre que las condiciones de visibilidad y seguridad lo permitan",
+      "No, nunca se puede adelantar",
+      "Solo a vehículos lentos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Se permite adelantar, pero siempre que la visibilidad y las condiciones de seguridad lo permitan."
+  }
+]

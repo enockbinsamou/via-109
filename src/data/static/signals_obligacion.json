@@ -1,0 +1,154 @@
+[
+  {
+    "id": "OBL-000",
+    "category": "obligacion",
+    "image": "/signals/obligacion/0.png",
+    "title_es": "Sentido obligatorio recto",
+    "meaning_es": "Indica que el conductor debe continuar recto.",
+    "description_es": "El conductor está obligado a seguir en línea recta, sin girar a la derecha ni a la izquierda. Esta señal se coloca generalmente en intersecciones donde los giros están prohibidos por razones de seguridad o flujo del tránsito."
+  },
+  {
+    "id": "OBL-001",
+    "category": "obligacion",
+    "image": "/signals/obligacion/1.png",
+    "title_es": "Sentido obligatorio izquierda",
+    "meaning_es": "Indica que el conductor debe girar a la izquierda.",
+    "description_es": "El conductor debe girar obligatoriamente a la izquierda en la intersección. No está permitido continuar recto ni girar a la derecha. Es importante señalizar la maniobra con anticipación."
+  },
+  {
+    "id": "OBL-002",
+    "category": "obligacion",
+    "image": "/signals/obligacion/2.png",
+    "title_es": "Sentido obligatorio derecha",
+    "meaning_es": "Indica que el conductor debe girar a la derecha.",
+    "description_es": "Obliga al conductor a girar a la derecha en la intersección. No se permite continuar recto ni girar a la izquierda. El conductor debe preparar la maniobra con anticipación, ubicándose en el carril derecho."
+  },
+  {
+    "id": "OBL-003",
+    "category": "obligacion",
+    "image": "/signals/obligacion/3.png",
+    "title_es": "Sentido obligatorio combinado",
+    "meaning_es": "Indica que se permite continuar en las direcciones señaladas.",
+    "description_es": "El conductor puede elegir entre las direcciones indicadas por las flechas, pero no puede tomar ninguna otra dirección no señalada. Por ejemplo, si las flechas indican recto y derecha, el giro a la izquierda queda prohibido."
+  },
+  {
+    "id": "OBL-004",
+    "category": "obligacion",
+    "image": "/signals/obligacion/4.png",
+    "title_es": "Sentido giratorio",
+    "meaning_es": "Indica la obligación de circular en rotonda.",
+    "description_es": "Obliga a circular en el sentido indicado dentro de la glorieta o rotonda. El conductor debe ceder el paso a los vehículos que ya circulan dentro, incorporarse por la derecha y salir en la dirección deseada sin detenerse dentro de la rotonda."
+  },
+  {
+    "id": "OBL-005",
+    "category": "obligacion",
+    "image": "/signals/obligacion/5.png",
+    "title_es": "Paso obligatorio",
+    "meaning_es": "Indica la obligación de pasar por el lado señalado.",
+    "description_es": "El conductor debe pasar obligatoriamente por el lado que indica la flecha, generalmente para rodear un obstáculo o isla de tráfico. No está permitido pasar por el lado contrario al señalado."
+  },
+  {
+    "id": "OBL-006",
+    "category": "obligacion",
+    "image": "/signals/obligacion/6.png",
+    "title_es": "Vía obligatoria para peatones",
+    "meaning_es": "Indica que la vía está destinada exclusivamente a peatones.",
+    "description_es": "Solo los peatones pueden utilizar esta vía. Los vehículos, incluidas bicicletas y motocicletas, tienen prohibido circular por ella. Es frecuente en zonas peatonales, paseos o calles cerradas al tráfico vehicular."
+  },
+  {
+    "id": "OBL-007",
+    "category": "obligacion",
+    "image": "/signals/obligacion/7.png",
+    "title_es": "Velocidad mínima obligatoria",
+    "meaning_es": "Indica la velocidad mínima permitida.",
+    "description_es": "Obliga a circular al menos a la velocidad indicada. Los vehículos que no puedan alcanzar esa velocidad no deben utilizar esta vía. Se aplica en autopistas o vías rápidas para mantener un flujo de tránsito seguro y constante."
+  },
+  {
+    "id": "OBL-008",
+    "category": "obligacion",
+    "image": "/signals/obligacion/8.png",
+    "title_es": "Vía obligatoria para camiones",
+    "meaning_es": "Indica que la vía está destinada a camiones.",
+    "description_es": "Solo los camiones y vehículos de carga pueden circular por esta vía. Los demás vehículos deben utilizar otra ruta. Se usa para canalizar el tráfico pesado por vías adecuadas a su peso y dimensiones."
+  },
+  {
+    "id": "OBL-009",
+    "category": "obligacion",
+    "image": "/signals/obligacion/9.png",
+    "title_es": "Vía obligatoria para automóviles",
+    "meaning_es": "Indica que la vía está destinada a automóviles.",
+    "description_es": "Esta vía es de uso exclusivo para automóviles. No pueden circular camiones, motocicletas, bicicletas ni otros tipos de vehículos. El conductor de un automóvil debe utilizar esta vía cuando esté señalizada."
+  },
+  {
+    "id": "OBL-010",
+    "category": "obligacion",
+    "image": "/signals/obligacion/10.png",
+    "title_es": "Vía obligatoria para motocicletas",
+    "meaning_es": "Indica que la vía está destinada a motocicletas.",
+    "description_es": "Solo las motocicletas pueden circular por esta vía. Los automóviles, camiones, bicicletas y otros vehículos deben usar una ruta alternativa. Estas vías están diseñadas para las características de circulación de las motocicletas."
+  },
+  {
+    "id": "OBL-011",
+    "category": "obligacion",
+    "image": "/signals/obligacion/11.png",
+    "title_es": "Vía obligatoria para vehículos de tracción animal",
+    "meaning_es": "Indica que la vía está destinada a vehículos de tracción animal.",
+    "description_es": "Solo los vehículos tirados por animales pueden utilizar esta vía. Los vehículos de motor deben buscar otra ruta. Estas vías permiten separar el tráfico lento del motorizado para mayor seguridad."
+  },
+  {
+    "id": "OBL-012",
+    "category": "obligacion",
+    "image": "/signals/obligacion/12.png",
+    "title_es": "Vía obligatoria para ciclistas",
+    "meaning_es": "Indica que la vía está destinada a bicicletas.",
+    "description_es": "Esta vía es de uso exclusivo para bicicletas. Los demás vehículos y peatones no deben circular por ella. Los ciclistas están obligados a utilizar este carril cuando esté disponible en lugar de la calzada general."
+  },
+  {
+    "id": "OBL-013",
+    "category": "obligacion",
+    "image": "/signals/obligacion/13.png",
+    "title_es": "Vía obligatoria para jinetes",
+    "meaning_es": "Indica que la vía está destinada a jinetes.",
+    "description_es": "Solo las personas a caballo o en animales de montura pueden utilizar esta vía. Los vehículos motorizados y los peatones deben usar otras vías. Se encuentra en zonas rurales o recreativas."
+  },
+  {
+    "id": "OBL-014",
+    "category": "obligacion",
+    "image": "/signals/obligacion/14.png",
+    "title_es": "Vía obligatoria para ómnibus",
+    "meaning_es": "Indica que la vía está destinada a ómnibus.",
+    "description_es": "Esta vía o carril es de uso exclusivo para ómnibus de transporte público. Los automóviles particulares, camiones y otros vehículos no pueden circular por ella. Permite que el transporte público fluya sin congestión."
+  },
+  {
+    "id": "OBL-015",
+    "category": "obligacion",
+    "image": "/signals/obligacion/15.png",
+    "title_es": "Paso obligatorio derecha",
+    "meaning_es": "Indica que se debe pasar por la derecha.",
+    "description_es": "El conductor debe pasar obligatoriamente por el lado derecho del obstáculo o isla de tráfico. Esta señal se usa cuando existe un elemento en la vía que impide la circulación directa y el paso seguro es por la derecha."
+  },
+  {
+    "id": "OBL-016",
+    "category": "obligacion",
+    "image": "/signals/obligacion/16.png",
+    "title_es": "Paso obligatorio izquierda",
+    "meaning_es": "Indica que se debe pasar por la izquierda.",
+    "description_es": "Obliga al conductor a pasar por el lado izquierdo del obstáculo o isla de tráfico. Se coloca cuando el paso seguro se encuentra a la izquierda del elemento que divide la calzada."
+  },
+  {
+    "id": "OBL-017",
+    "category": "obligacion",
+    "image": "/signals/obligacion/17.png",
+    "title_es": "Fin de obligación",
+    "meaning_es": "Indica el final de la obligación señalada.",
+    "description_es": "A partir de este punto deja de aplicarse la obligación indicada anteriormente, como una velocidad mínima o un sentido obligatorio. El conductor retoma las normas generales de circulación aplicables a esa vía."
+  },
+  {
+    "id": "OBL-018",
+    "category": "obligacion",
+    "image": "/signals/obligacion/18.png",
+    "title_es": "Dirección obligatoria múltiple",
+    "meaning_es": "Indica varias direcciones obligatorias posibles.",
+    "description_es": "El conductor puede elegir entre varias direcciones señaladas, pero no puede tomar ninguna otra que no esté indicada. Es similar a la señal de sentido obligatorio combinado, pero con más opciones de dirección disponibles."
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "ELM-000",
+    "category": "elementos_complementarios",
+    "image": "/signals/elementos/0.jpg",
+    "title_es": "Cruce con una sola vía férrea sin barrera o semibarrera",
+    "meaning_es": "Indica cruce ferroviario sin protección física.",
+    "description_es": "Señala un cruce con una sola vía de tren sin barrera que impida el paso. El conductor debe detenerse, mirar en ambos sentidos y cruzar solo cuando tenga certeza absoluta de que no se aproxima ningún tren."
+  },
+  {
+    "id": "ELM-001",
+    "category": "elementos_complementarios",
+    "image": "/signals/elementos/1.png",
+    "title_es": "Cruce con dos o más vías férreas sin barrera o semibarrera",
+    "meaning_es": "Indica cruce ferroviario múltiple sin protección.",
+    "description_es": "Advierte que se cruzan dos o más vías de tren sin barrera. El peligro es mayor porque pueden circular trenes en ambos sentidos simultáneamente. El conductor debe detenerse, comprobar todas las vías y cruzar con extrema precaución."
+  },
+  {
+    "id": "ELM-002",
+    "category": "elementos_complementarios",
+    "image": "/signals/elementos/2.jpg",
+    "title_es": "Cruce con dos o más vías férreas",
+    "meaning_es": "Indica cruce ferroviario múltiple.",
+    "description_es": "Señala la presencia de un cruce con varias vías férreas. Aunque pueda existir barrera, el conductor debe prestar atención especial porque un segundo tren puede pasar inmediatamente después del primero."
+  },
+  {
+    "id": "ELM-003",
+    "category": "elementos_complementarios",
+    "image": "/signals/elementos/3.jpg",
+    "title_es": "Barreras para el cierre de vías",
+    "meaning_es": "Elemento físico de cierre.",
+    "description_es": "Son dispositivos que se colocan para impedir totalmente la circulación por una vía. Se utilizan en obras, emergencias o cuando una carretera está cortada. El conductor debe detenerse y buscar una ruta alternativa."
+  },
+  {
+    "id": "ELM-004",
+    "category": "elementos_complementarios",
+    "image": "/signals/elementos/4.jpg",
+    "title_es": "Barreras para el cambio de los sentidos de la circulación",
+    "meaning_es": "Controlan el sentido del tránsito.",
+    "description_es": "Son elementos físicos que se colocan para modificar temporalmente el sentido de circulación de uno o más carriles. Se usan frecuentemente en obras o eventos especiales. El conductor debe seguir las indicaciones y no intentar cruzar la barrera."
+  },
+  {
+    "id": "ELM-005",
+    "category": "elementos_complementarios",
+    "image": "/signals/elementos/5.jpg",
+    "title_es": "Cono",
+    "meaning_es": "Elemento provisional de canalización.",
+    "description_es": "Los conos de tránsito se colocan para delimitar zonas de trabajo, accidentes o peligros temporales. El conductor debe respetarlos como si fueran una barrera y no circular sobre ellos ni entre ellos. Indican que algo fuera de lo normal ocurre en la vía."
+  },
+  {
+    "id": "ELM-006",
+    "category": "elementos_complementarios",
+    "image": "/signals/elementos/6.jpg",
+    "title_es": "Poste delimitador",
+    "meaning_es": "Elemento vertical de delimitación.",
+    "description_es": "Son postes colocados al borde de la calzada para marcar sus límites, especialmente en curvas, puentes o zonas con poca visibilidad. Ayudan al conductor a identificar el trazado de la vía, sobre todo de noche o con poca luz."
+  },
+  {
+    "id": "ELM-007",
+    "category": "elementos_complementarios",
+    "image": "/signals/elementos/7.jpg",
+    "title_es": "Semiesfera o múcura",
+    "meaning_es": "Elemento reductor de velocidad.",
+    "description_es": "Son elementos semiesféricos instalados sobre la calzada para obligar a reducir la velocidad. Se colocan en zonas donde es necesario que los vehículos circulen muy despacio, como entradas a estacionamientos, zonas escolares o residenciales."
+  },
+  {
+    "id": "ELM-008",
+    "category": "elementos_complementarios",
+    "image": "/signals/elementos/8.jpg",
+    "title_es": "Baranda para peatones",
+    "meaning_es": "Elemento de protección peatonal.",
+    "description_es": "Son barreras metálicas o de otro material instaladas para guiar y proteger a los peatones, evitando que crucen la calzada por lugares peligrosos. Canalizan el flujo peatonal hacia los pasos seguros señalizados."
+  },
+  {
+    "id": "ELM-009",
+    "category": "elementos_complementarios",
+    "image": "/signals/elementos/9.jpg",
+    "title_es": "Capta faro u ojos de gato",
+    "meaning_es": "Elemento reflectante de orientación nocturna.",
+    "description_es": "Son pequeños dispositivos reflectantes empotrados en la calzada que brillan al ser iluminados por los faros del vehículo. Ayudan al conductor a ver los límites de la vía y los carriles durante la noche o en condiciones de poca visibilidad."
+  }
+]

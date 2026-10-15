@@ -1,0 +1,158 @@
+[
+  {
+    "id": 7001,
+    "signalId": "PRI-000",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Ceda el Paso",
+      "Pare",
+      "Prioridad de circulación",
+      "Vía con prioridad"
+    ],
+    "correctIndex": 1,
+    "explanation": "Indica la obligación de detener completamente el vehículo."
+  },
+  {
+    "id": 7002,
+    "signalId": "PRI-001",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Pare",
+      "Ceda el Paso",
+      "Fin de vía con prioridad",
+      "Prioridad al vehículo en sentido contrario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Indica que se debe ceder el paso a los vehículos que circulan por la vía preferente."
+  },
+  {
+    "id": 7003,
+    "signalId": "PRI-002",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Prioridad de circulación",
+      "Ceda el Paso",
+      "Prioridad al vehículo en sentido contrario",
+      "Pare"
+    ],
+    "correctIndex": 2,
+    "explanation": "Indica que se debe ceder el paso a los vehículos que circulan en sentido contrario."
+  },
+  {
+    "id": 7004,
+    "signalId": "PRI-003",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Prioridad de circulación",
+      "Prioridad al vehículo en sentido contrario",
+      "Vía con prioridad",
+      "Fin de vía con prioridad"
+    ],
+    "correctIndex": 0,
+    "explanation": "Indica que el conductor tiene prioridad frente a los vehículos que circulan en sentido contrario."
+  },
+  {
+    "id": 7005,
+    "signalId": "PRI-004",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Fin de vía con prioridad",
+      "Prioridad de circulación",
+      "Vía con prioridad",
+      "Ceda el Paso"
+    ],
+    "correctIndex": 2,
+    "explanation": "Indica que la vía por la que se circula tiene prioridad en las intersecciones."
+  },
+  {
+    "id": 7006,
+    "signalId": "PRI-005",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Vía con prioridad",
+      "Fin de vía con prioridad",
+      "Pare",
+      "Prioridad de circulación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Indica el final del tramo donde la vía tenía prioridad."
+  },
+  {
+    "id": 7007,
+    "signalId": "PRI-006",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Recto con luz roja",
+      "Izquierda con luz verde",
+      "Dirección obligatoria con luz roja",
+      "Pare"
+    ],
+    "correctIndex": 2,
+    "explanation": "Indica que el giro en esa dirección está permitido únicamente con la luz roja del semáforo."
+  },
+  {
+    "id": 7008,
+    "signalId": "PRI-007",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Dirección obligatoria con luz roja",
+      "Recto con luz roja",
+      "Izquierda con luz verde",
+      "Vía con prioridad"
+    ],
+    "correctIndex": 1,
+    "explanation": "Indica que se permite continuar recto con la luz roja del semáforo."
+  },
+  {
+    "id": 7009,
+    "signalId": "PRI-008",
+    "question": "¿Qué indica esta señal?",
+    "choices": [
+      "Dirección obligatoria con luz roja",
+      "Recto con luz roja",
+      "Ceda el Paso",
+      "Izquierda con luz verde"
+    ],
+    "correctIndex": 3,
+    "explanation": "Indica prioridad para girar a la izquierda cuando el semáforo lo permita."
+  },
+  {
+    "id": 7010,
+    "signalId": "PRI-000",
+    "question": "Al ver esta señal, ¿qué debe hacer el conductor?",
+    "choices": [
+      "Reducir la velocidad sin detenerse",
+      "Detenerse completamente antes de continuar",
+      "Continuar si no hay vehículos visibles",
+      "Ceder el paso solo si hay tráfico"
+    ],
+    "correctIndex": 1,
+    "explanation": "El conductor debe detener el vehículo por completo antes de la línea de detención, aunque no se aproximen otros vehículos."
+  },
+  {
+    "id": 7011,
+    "signalId": "PRI-001",
+    "question": "¿Cuál es la diferencia principal entre esta señal y la señal de Pare?",
+    "choices": [
+      "No es obligatoria",
+      "Solo aplica a camiones",
+      "No obliga a detenerse si la vía está libre",
+      "Solo aplica en autopistas"
+    ],
+    "correctIndex": 2,
+    "explanation": "A diferencia de la señal de Pare, la señal de Ceda el Paso no obliga a detenerse si la vía preferente está libre."
+  },
+  {
+    "id": 7012,
+    "signalId": "PRI-002",
+    "question": "¿En qué situación se utiliza esta señal?",
+    "choices": [
+      "En autopistas de varios carriles",
+      "En tramos estrechos donde no caben dos vehículos",
+      "En rotondas con mucho tráfico",
+      "En cruces regulados por semáforo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Se utiliza en tramos estrechos donde no caben dos vehículos a la vez, obligando a ceder el paso al vehículo que viene de frente."
+  }
+]

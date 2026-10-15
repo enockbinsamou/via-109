@@ -1,0 +1,132 @@
+[
+  {
+    "id": 10001,
+    "signalId": "ELM-000",
+    "question": "¿Qué indica este elemento?",
+    "choices": [
+      "Cruce con dos o más vías férreas",
+      "Cruce con una sola vía férrea sin barrera o semibarrera",
+      "Barreras para el cierre de vías",
+      "Poste delimitador"
+    ],
+    "correctIndex": 1,
+    "explanation": "Indica cruce ferroviario con una sola vía sin protección física."
+  },
+  {
+    "id": 10002,
+    "signalId": "ELM-001",
+    "question": "¿Qué indica este elemento?",
+    "choices": [
+      "Cruce con una sola vía férrea sin barrera",
+      "Barreras para el cierre de vías",
+      "Cruce con dos o más vías férreas sin barrera o semibarrera",
+      "Capta faro u ojos de gato"
+    ],
+    "correctIndex": 2,
+    "explanation": "Indica cruce ferroviario múltiple sin protección."
+  },
+  {
+    "id": 10003,
+    "signalId": "ELM-002",
+    "question": "¿Qué indica este elemento?",
+    "choices": [
+      "Cruce con dos o más vías férreas",
+      "Cruce con una sola vía férrea sin barrera",
+      "Barreras para el cambio de los sentidos de la circulación",
+      "Baranda para peatones"
+    ],
+    "correctIndex": 0,
+    "explanation": "Indica cruce ferroviario múltiple."
+  },
+  {
+    "id": 10004,
+    "signalId": "ELM-003",
+    "question": "¿Qué indica este elemento?",
+    "choices": [
+      "Barreras para el cambio de los sentidos de la circulación",
+      "Cono",
+      "Barreras para el cierre de vías",
+      "Poste delimitador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Elemento físico que se utiliza para impedir la circulación por una vía."
+  },
+  {
+    "id": 10005,
+    "signalId": "ELM-004",
+    "question": "¿Qué indica este elemento?",
+    "choices": [
+      "Barreras para el cierre de vías",
+      "Barreras para el cambio de los sentidos de la circulación",
+      "Baranda para peatones",
+      "Semiesfera o múcura"
+    ],
+    "correctIndex": 1,
+    "explanation": "Controlan y permiten modificar el sentido del tránsito."
+  },
+  {
+    "id": 10006,
+    "signalId": "ELM-005",
+    "question": "¿Para qué se utiliza este elemento?",
+    "choices": [
+      "Para reducir la velocidad",
+      "Para marcar bordes de la vía",
+      "Para delimitar zonas de trabajo o peligro temporales",
+      "Para mejorar la visibilidad nocturna"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los conos se colocan para delimitar zonas de trabajo, accidentes o peligros temporales."
+  },
+  {
+    "id": 10007,
+    "signalId": "ELM-006",
+    "question": "¿Qué función cumple este elemento?",
+    "choices": [
+      "Reducir la velocidad de los vehículos",
+      "Marcar los bordes o límites de la calzada",
+      "Proteger a los peatones",
+      "Impedir la circulación de vehículos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los postes delimitadores marcan los bordes de la calzada, especialmente en curvas y zonas con poca visibilidad."
+  },
+  {
+    "id": 10008,
+    "signalId": "ELM-007",
+    "question": "¿Para qué se instala este elemento en la calzada?",
+    "choices": [
+      "Para mejorar la visibilidad nocturna",
+      "Para proteger a los peatones",
+      "Para obligar a los vehículos a reducir la velocidad",
+      "Para delimitar zonas de trabajo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las semiesferas o múcuras se instalan sobre la calzada para obligar a los vehículos a reducir la velocidad."
+  },
+  {
+    "id": 10009,
+    "signalId": "ELM-008",
+    "question": "¿Cuál es la función principal de este elemento?",
+    "choices": [
+      "Impedir la circulación vehicular",
+      "Guiar y proteger a los peatones",
+      "Reducir la velocidad del tránsito",
+      "Marcar los límites de la calzada"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las barandas para peatones guían y protegen a los peatones, evitando que crucen por lugares peligrosos."
+  },
+  {
+    "id": 10010,
+    "signalId": "ELM-009",
+    "question": "¿Para qué sirve este dispositivo?",
+    "choices": [
+      "Para reducir la velocidad",
+      "Para impedir el paso de vehículos",
+      "Para mejorar la visibilidad de los límites de la vía en la noche",
+      "Para proteger a los peatones"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los capta faros u ojos de gato son dispositivos reflectantes que mejoran la visibilidad de la vía durante la noche."
+  }
+]
