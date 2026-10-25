@@ -5,7 +5,7 @@ export const brandConfig = {
   primaryHue: 200,
   primarySaturation: 58,
   primaryLightness: 29,
-  logoPath: "/logo.png",
+  logoPath: "/icons/icon-512.png",
   version: "1.0.0",
 } as const;
 

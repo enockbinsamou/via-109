@@ -29,6 +29,7 @@ export default function HomeScreen() {
           </div>
           <button
             onClick={() => navigate("/settings")}
+            aria-label="Ajustes"
             className="flex h-10 w-10 items-center justify-center rounded-full bg-primary-foreground/20 press-scale"
           >
             <Settings className="h-5 w-5" />

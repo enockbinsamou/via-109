@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Logo de Vía 109 : le « V » blanc de l'en-tête de l'application, sur la couleur primaire. -->
+  <rect width="512" height="512" rx="112" fill="#1F5875"/>
+  <circle cx="256" cy="256" r="168" fill="#FFFFFF"/>
+  <path d="M180 178h48l28 104 28-104h48l-52 158h-48z" fill="#1F5875"/>
+</svg>

@@ -15,49 +15,39 @@ export default defineConfig(() => ({
     react(),
     VitePWA({
       registerType: "autoUpdate",
-      includeAssets: ["favicon.ico", "robots.txt", "signals/**/*", "illustrations/**/*"],
+      // Les icônes sont déjà couvertes par globPatterns ; évite de les précacher deux fois.
+      includeManifestIcons: false,
+      // Critères d'installation de Chrome : nom, icônes 192 et 512 px, start_url, display standalone.
       manifest: {
+        id: "/",
         name: "Vía 109",
         short_name: "Vía 109",
-        description: "Aprueba tu examen teórico",
-        theme_color: "#2E5DA8",
-        background_color: "#ffffff",
+        description: "Aprende las señales de tránsito y prepara el examen teórico de conducción en Cuba.",
+        lang: "es",
+        dir: "ltr",
+        // Couleurs de l'application (--primary et --background de src/index.css).
+        theme_color: "#1F5875",
+        background_color: "#F7F5F3",
         display: "standalone",
+        orientation: "portrait",
         start_url: "/",
+        scope: "/",
+        categories: ["education"],
         icons: [
-          {
-            src: "/favicon.ico",
-            sizes: "64x64",
-            type: "image/x-icon",
-          },
+          { src: "/icons/icon-192.png", sizes: "192x192", type: "image/png", purpose: "any" },
+          { src: "/icons/icon-512.png", sizes: "512x512", type: "image/png", purpose: "any" },
+          { src: "/icons/icon-maskable-512.png", sizes: "512x512", type: "image/png", purpose: "maskable" },
         ],
       },
       workbox: {
         skipWaiting: true,
         clientsClaim: true,
-        globPatterns: [
-          "**/*.{js,css,html,ico,svg,json}",
-          "signals/**/*.{png,jpg,jpeg,webp}",
-        ],
+        // Tout le site est mis en cache à l'installation (panneaux et illustrations compris) :
+        // l'application fonctionne entièrement hors ligne, même pour une leçon jamais ouverte.
+        globPatterns: ["**/*.{js,css,html,ico,svg,png,jpg,jpeg,webp,json,txt}"],
         maximumFileSizeToCacheInBytes: 5 * 1024 * 1024,
         navigateFallback: "/index.html",
         navigateFallbackAllowlist: [/^\/(?!api)/],
-        runtimeCaching: [
-          {
-            urlPattern: /\/illustrations\/.+\.(png|jpg|jpeg|webp)$/i,
-            handler: "CacheFirst",
-            options: {
-              cacheName: "illustration-images",
-              expiration: {
-                maxEntries: 100,
-                maxAgeSeconds: 30 * 24 * 60 * 60,
-              },
-              cacheableResponse: {
-                statuses: [0, 200],
-              },
-            },
-          },
-        ],
       },
     }),
   ].filter(Boolean),

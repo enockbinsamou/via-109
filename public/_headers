@@ -1,0 +1,11 @@
+# Cloudflare Pages : le service worker et le manifeste doivent toujours être revérifiés,
+# sinon une mise à jour de l'application peut rester bloquée dans le cache du navigateur.
+/sw.js
+  Cache-Control: no-cache
+/manifest.webmanifest
+  Cache-Control: no-cache
+  Content-Type: application/manifest+json
+
+# Fichiers JS et CSS nommés avec leur empreinte : ils ne changent jamais.
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
