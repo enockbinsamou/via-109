@@ -1,48 +1,63 @@
 # Vía 109
 
-A mobile-first progressive web app to learn Cuban road signs and prepare for the
-theory part of the Cuban driving licence exam.
+Application pour apprendre le code de la route cubain et préparer l'examen théorique du permis.
 
-*Aplicación web progresiva para aprender las señales de tránsito y preparar el
-examen teórico de conducción en Cuba.*
+PWA installable, en espagnol, qui fonctionne hors ligne. Aucun compte ni serveur : la
+progression reste sur l'appareil. En ligne sur https://via109.enockbinsamou.com.
 
-## What it does
+## Fonctionnalités
 
-- **Aprender**: road signs and rules by category (warning, prohibition, obligation,
-  information, horizontal markings, traffic officer signals, pedestrians,
-  priority at intersections, accidents).
-- **Quiz**: multiple-choice questions, resumable, with detailed results.
-- **Examen**: a simulation of the official theory exam.
-- **Progreso** and **Guardados**: progress statistics and saved questions.
-- Installable and usable offline (PWA). No account, no backend: progress stays
-  on the device (`localStorage`).
+- **Aprender** : panneaux par catégorie (peligro, prioridad, prohibición, obligación,
+  información, orientación…) et règles illustrées (peatones, intersecciones, agente, accidente)
+- **Quiz** : questions par catégorie ou aléatoires, reprise d'un quiz interrompu, correction
+- **Examen** : simulation de 30 questions en 30 minutes, corrigée à la fin
+- **Progreso** et **Guardados** : statistiques et questions ratées à retravailler
+- **Hors ligne** : toute l'application est mise en cache à la première visite
 
-## Content source
+## Démarrage
 
-All signs, rules and situations come from the **Ley No. 109 (Código de Seguridad
-Vial)** of the Republic of Cuba and the official study material the Cuban State
-provides to licence candidates. This is public material; the app only reorganises
-it for learning. It is not an official product.
+Node.js 22 est requis (voir `.node-version`).
 
-## Stack
-
-React 18 · TypeScript · Vite · React Router · Tailwind CSS · shadcn/ui ·
-vite-plugin-pwa · Vitest.
-
-## Run it locally
-
-```sh
+```bash
 npm ci
-npm run dev      # http://localhost:8080
-npm run build    # production build in dist/
+npm run dev       # http://localhost:8080
+npm run build     # version de production dans dist/
+npm run preview   # le service worker n'est actif qu'ici
 npm test
 ```
 
-## Author
+## Structure
 
-Built by **Enock Salomon Binsamou**.
+```
+src/
+├── screens/      un écran par route
+├── components/   navigation, cartes, questions, scores
+├── data/static/  panneaux, questions et règles (JSON et TS)
+├── utils/        progression dans localStorage (clés pc_v1_*)
+└── App.tsx       routes
+public/
+├── signals/      images des panneaux
+├── illustrations/
+└── icons/        icônes de l'application
+```
 
-## License
+Le manifeste et le service worker sont configurés dans `vite.config.ts` (vite-plugin-pwa).
 
-Code under the [MIT License](LICENSE). The regulatory content belongs to its
-official source (Ley No. 109).
+## Déploiement
+
+Cloudflare Pages publie la branche `main` à chaque push (préréglage React (Vite),
+`npm run build`, dossier `dist`, `NODE_VERSION=22`). `public/_headers` empêche le navigateur de
+garder en cache une ancienne version du service worker.
+
+## Contenu
+
+Panneaux et règles viennent de la Ley No. 109 (Código de Seguridad Vial) de la République de
+Cuba et du matériel d'étude officiel remis aux candidats. L'application n'est pas un produit
+officiel.
+
+Le quiz « Peligro » n'a pas encore de questions (`src/data/static/questions_peligro.json`).
+
+## Licence
+
+[MIT](LICENSE) © Enock Salomon Binsamou. Le contenu réglementaire appartient à sa source
+officielle.
