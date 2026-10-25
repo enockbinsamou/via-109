@@ -1,8 +1,10 @@
 # JOURNAL : Vía 109
 
 > Ce qui a été fait, dans l'ordre, le plus récent en haut. Une entrée par séance de travail.
-> Ce fichier permet de reprendre le travail sans relire tout le dépôt. Il est versionné : il
-> voyage avec le projet.
+> C'est ce fichier qui permet à Claude, à Codex et à toi de reprendre le travail sans relire
+> tout le dépôt. Il est versionné : il voyage avec le projet.
+>
+> Rituel de fin de séance : la commande `/journal` écrit l'entrée ci-dessous.
 
 ## 2026-10-25
 
